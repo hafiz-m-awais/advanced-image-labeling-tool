@@ -36,7 +36,7 @@ A professional, modular image annotation application built with Python and Tkint
 
 ### Option 1: Download Executable (Recommended)
 1. Download the latest release from the [Releases](https://github.com/hafiz-m-awais/advanced-image-labeling-tool/releases) page
-2. Run `Image Labeling Tool_by_Awais_Setup.exe`
+2. Run `Image_Labeling_Tool_Setup.exe`
 3. Follow the installation wizard
 4. Launch from Start Menu or desktop shortcut
 
@@ -218,3 +218,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) 
 ---
 
 **⭐ If you found this project helpful, please consider giving it a star!**
+
