@@ -35,7 +35,7 @@ A professional, modular image annotation application built with Python and Tkint
 ## Installation
 
 ### Option 1: Download Executable (Recommended)
-1. Download the latest release from the [Releases](../../releases) page
+1. Download the latest release from the [Releases](https://github.com/hafiz-m-awais/advanced-image-labeling-tool/releases) page
 2. Run `Image Labeling Tool_by_Awais_Setup.exe`
 3. Follow the installation wizard
 4. Launch from Start Menu or desktop shortcut
@@ -43,7 +43,7 @@ A professional, modular image annotation application built with Python and Tkint
 ### Option 2: Run from Source
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/advanced-image-labeling-tool.git
+git clone https://github.com/hafiz-m-awais/advanced-image-labeling-tool.git
 cd advanced-image-labeling-tool
 
 # Install dependencies
@@ -98,7 +98,6 @@ image_labeling_tool/
     ├── event_handler.py          # Event handling
     ├── annotation_manager.py     # Annotation data management
     ├── canvas_manager.py         # Canvas operations
-    ├── context_menu_manager.py   # Context menus
     └── file_io_manager.py        # File I/O operations
 ```
 
@@ -158,6 +157,8 @@ XML format compatible with Pascal VOC datasets.
 
 ## Contributing
 
+We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
+
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
@@ -168,7 +169,7 @@ XML format compatible with Pascal VOC datasets.
 
 ```bash
 # Clone and setup development environment
-git clone https://github.com/yourusername/advanced-image-labeling-tool.git
+git clone https://github.com/hafiz-m-awais/advanced-image-labeling-tool.git
 cd advanced-image-labeling-tool
 
 # Create virtual environment
@@ -197,19 +198,7 @@ pip install -r requirements.txt
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Built with Python and Tkinter
-- Icons from various open-source icon libraries
-- Inspired by professional annotation tools used in computer vision research
-
-## Support
-
-- 📧 **Email**: hafiz.awais.ds@gmail.com.com
-- 💬 **Issues**: [GitHub Issues](../../issues)
-- 📚 **Documentation**: [Wiki](../../wiki)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
 
 ## Changelog
 
@@ -220,6 +209,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Professional Windows installer
 - Comprehensive keyboard shortcuts
 - Context menu system
+
+## Support
+
+- 🐛 **Issues**: [GitHub Issues](https://github.com/hafiz-m-awais/advanced-image-labeling-tool/issues)
+- 📚 **Documentation**: [Project Wiki](https://github.com/hafiz-m-awais/advanced-image-labeling-tool/wiki)
 
 ---
 
