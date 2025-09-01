@@ -87,7 +87,6 @@ python main.py
 
 ## Project Structure
 
-```
 image_labeling_tool/
 ├── main.py                    # Application entry point
 ├── requirements.txt           # Python dependencies
@@ -95,6 +94,9 @@ image_labeling_tool/
 ├── installer_awais.iss       # Inno Setup installer script
 ├── assets/                   # Icons and resources
 │   └── icon.ico
+├── screenshots/              # Application screenshots and demo
+│   ├── Labeltool_inference.png
+│   └── labeltool_inference_video.mp4
 └── src/                      # Source code modules
     ├── __init__.py
     ├── image_labeling_tool.py      # Main controller
@@ -225,5 +227,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) 
 ---
 
 **⭐ If you found this project helpful, please consider giving it a star!**
+
 
 
