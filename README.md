@@ -8,7 +8,14 @@ A professional, modular image annotation application built with Python and Tkint
 
 ## Screenshots
 
-*Add your application screenshots here*
+### Application Interface
+![Advanced Image Labeling Tool Interface](screenshots/Labeltool_inference.png)
+*The modern dark-themed interface with three-panel layout: file operations (left), main canvas (center), and annotation tools (right)*
+
+### Demo Video
+[Demo Video](https://github.com/hafiz-m-awais/advanced-image-labeling-tool/raw/main/screenshots/labeltool_inference_video.mp4)
+
+*Watch the tool in action - loading images, creating annotations, and exporting data*
 
 ## Features
 
@@ -218,4 +225,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) 
 ---
 
 **⭐ If you found this project helpful, please consider giving it a star!**
+
 
